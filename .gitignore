@@ -1,2 +1,5 @@
-.DS_Store
-.stoplight/styleguide.json
+/target/
+**/*.rs.bk
+Cargo.lock
+.travis.yml
+git_push.sh
