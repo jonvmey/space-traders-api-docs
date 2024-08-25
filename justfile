@@ -11,4 +11,5 @@ generate:
       --additional-properties=packageVersion={{version}} \
       --additional-properties=preferUnsignedInt=true \
       --additional-properties=bestFitInt=true \
-      --additional-properties=avoidBoxedModels=true
+      --additional-properties=avoidBoxedModels=true \
+      --additional-properties=supportMiddleware=true
